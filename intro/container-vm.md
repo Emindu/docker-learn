@@ -1,6 +1,3 @@
-Here’s a Markdown formatted short note based on the provided captions:
-
-```markdown
 # Understanding Containers vs. Virtual Machines
 
 ## Introduction to Containers
@@ -33,6 +30,4 @@ Here’s a Markdown formatted short note based on the provided captions:
 
 ## Conclusion
 - Containers are lightweight, isolated processes that run on the host OS, providing a clear distinction from traditional virtual machines. This understanding helps in effectively managing and utilizing containers in development and deployment scenarios.
-```
 
-Feel free to use or modify this Markdown note as needed!
